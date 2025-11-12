@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations Dberg042! 🎉
+# 🎉 Congratulations David! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
